@@ -68,39 +68,39 @@ const Projects = () => {
         },
         {
             id: 4,
-            project_name: 'Movie-App',
-            image: 'https://github.com/Mukesh16407/git_2nd/blob/master/movies2.png?raw=true',
-            project_desc:
-                'A Movie platform that allows users to search and watch trailers of a wide variety of movies.',
-            deploy_link: '',
-            repo_link: 'https://github.com/Mukesh16407/movies_api',
+            project_name: 'McDonald-App',
+            image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/mc%20donald.png?raw=true',
+          project_desc:
+        'A food app here you can serch and add foods',
+        deploy_link: 'https://epic-poitras-86ac89.netlify.app/',
+        repo_link: 'https://github.com/Ashwininagargoje703/MCdonals.git',
             tech_stack: [
                 <FaNodeJs />,
                 <SiMongodb />,
                 <FaJs />,
-                <SiHeroku />,
-                <FaHtml5 />,
-                <FaCss3 />,
+               <SiHeroku />,
+               <FaHtml5 />,
+        <FaCss3 />,
             ],
         },
-        {
-            id: 5,
-            project_name: 'Weather And Google',
-            image: 'https://github.com/Mukesh16407/git_2nd/blob/master/weatherandGoogle_api.png?raw=true',
-            project_desc:
-                'A simple App which is used for Seven Day forcasting  weather and location.Also add tempterature and  wind Speed.',
-            deploy_link: 'https://my-weathermap.netlify.app/',
-            repo_link: 'https://github.com/Mukesh16407/weaterandGoolemap',
-            tech_stack: [ <FaJs />, <FaHtml5 />, <FaCss3 />],
-        },
-        {
+        // {
+        //     id: 5,
+        //     project_name: 'Weather And Google',
+        //     image: 'https://github.com/Mukesh16407/git_2nd/blob/master/weatherandGoogle_api.png?raw=true',
+        //     project_desc:
+        //         'A simple App which is used for Seven Day forcasting  weather and location.Also add tempterature and  wind Speed.',
+        //     deploy_link: 'https://my-weathermap.netlify.app/',
+        //     repo_link: 'https://github.com/Mukesh16407/weaterandGoolemap',
+        //     tech_stack: [ <FaJs />, <FaHtml5 />, <FaCss3 />],
+        // },
+         {
             id: 6,
             project_name: 'You-tube Clone',
-            image: 'https://github.com/Mukesh16407/git_2nd/blob/master/youtube2.png?raw=true',
+            image: 'https://github.com/Ashwininagargoje703/Portfolio/blob/master/public/ProjectImages/youtube-clone.png?raw=true',
             project_desc:
                 'Its a app look similar to youtube.also add some functionalty similar to youtube',
             deploy_link: '',
-            repo_link: 'https://github.com/Mukesh16407/youtube_clone',
+            repo_link: 'https://github.com/Ashwininagargoje703/Youtube-clone.git',
             tech_stack: [<FaJs />, <FaHtml5 />, <FaCss3 />],
         },
     ];
