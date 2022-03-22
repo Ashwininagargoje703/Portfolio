@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 2d774041a6a18ad99c0e559c5dfeeafa9fb8cf16
     "name": "myportfolio",
     "version": "0.1.0",
     "description":"this is my portfolio",
@@ -19,8 +23,13 @@
         "uuid": "^8.3.2"
     },
     "scripts": {
+<<<<<<< HEAD
         "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
+=======
+        "start": "react-scripts sstart",
+    "build": "react-scripts build",
+>>>>>>> 2d774041a6a18ad99c0e559c5dfeeafa9fb8cf16
     "test": "react-scripts test",
     "eject": "react-scripts eject"
     },
