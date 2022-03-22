@@ -71,12 +71,12 @@ const Projects = () => {
             project_name: 'McDonald-App',
             image: 'https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/mc%20donald.png?raw=true',
           project_desc:
-        'A food app here you can serch and add foods',
+        'A food app here you can search and add foods this page build using html css advace js',
         deploy_link: 'https://epic-poitras-86ac89.netlify.app/',
         repo_link: 'https://github.com/Ashwininagargoje703/MCdonals.git',
             tech_stack: [
-                <FaNodeJs />,
-                <SiMongodb />,
+                // <FaNodeJs />,
+                // <SiMongodb />,
                 <FaJs />,
                <SiHeroku />,
                <FaHtml5 />,
@@ -96,9 +96,9 @@ const Projects = () => {
          {
             id: 6,
             project_name: 'You-tube Clone',
-            image: 'https://github.com/Ashwininagargoje703/Portfolio/blob/master/public/ProjectImages/youtube-clone.png?raw=true',
+            image: 'https://github.com/Ashwininagargoje703/Portfolio/blob/master/public/ProjectImages/youtube-clone%20(2).png?raw=true',
             project_desc:
-                'Its a app look similar to youtube.also add some functionalty similar to youtube',
+                'Its a app look similar to youtube.also add some functionalty similar to youtube using html css js',
             deploy_link: '',
             repo_link: 'https://github.com/Ashwininagargoje703/Youtube-clone.git',
             tech_stack: [<FaJs />, <FaHtml5 />, <FaCss3 />],

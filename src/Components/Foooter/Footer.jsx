@@ -7,13 +7,13 @@ const Footer = () => {
         <Container>
             {/* </FooterLink> */}
             <FooterCont>
-                <A
+                {/* <A
                     href='https://github.com/Ashwininagargoje703'
                     target='_blank'
                     rel='noreferrer'
                 >
                     <strong>Source Code</strong>
-                </A>
+                </A> */}
             </FooterCont>
             {/* </FooterLink> */}
         </Container>
