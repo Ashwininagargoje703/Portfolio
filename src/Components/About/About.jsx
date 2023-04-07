@@ -46,7 +46,7 @@ const About = () => {
                     <H1>About Me</H1>
                     <AboutInfo>
                         <AboutInfoP>
-                        A passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai School's numerous training.
+                        A passionate experienced Full Stack Developer skilled in MERN stack, moulded and shaped by Masai School's numerous training.
                         Passion and diligence are two traits that I believe most reflect me as an individual. I’ve been faced with many challenges.
                         Without enthusiasm, patience and some degree of positivity, we cannot bring about the change that is needed to a better life!
                         Actively ready to join in a great lively team of a good start-up to adapt me in any situation and environment with ease and perform the best
