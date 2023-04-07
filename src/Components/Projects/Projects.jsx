@@ -23,7 +23,7 @@ const Projects = () => {
       id: 1,
       project_name: "Meshoo Clone",
       image:
-        "https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/meeshoo.png.png?raw=true",
+        "https://i.ibb.co/mcpKr1N/meeshoo.png",
       project_desc:
         "Meesho is a online Shopping & Reselling site in India - Buy & Sell best quality Fashion, Electronics, Home & Kitchen products at lowest prices.",
       features:
@@ -37,7 +37,7 @@ const Projects = () => {
       id: 2,
       project_name: "TheBowlCompany Clone",
       image:
-        "https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/TheBowl.png?raw=true",
+        "https://i.ibb.co/RpHJXfj/TheBowl.png",
       project_desc:
         "This is a clone if The Bowl Company Which is about Dishes offered by Swiggys new platform that offers food in a special Bowl.",
       features:
@@ -51,7 +51,7 @@ const Projects = () => {
       id: 3,
       project_name: "Weather-App Google map",
       image:
-        "https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/weather.png?raw=true",
+        "https://i.ibb.co/txpKKTc/weather.png",
       project_desc:
         "A simple App which is used for Seven Day forcasting  weather and location.Also add tempterature and  wind Speed.",
       features:'This feature displays the current temperature, humidity, wind speed, and other relevant weather conditions for a users current location or a location of their choice.',
@@ -73,7 +73,7 @@ const Projects = () => {
       id: 4,
       project_name: "McDonald-App",
       image:
-        "https://github.com/Ashwininagargoje703/My-Port/blob/master/public/ProjectImages/mc%20donald.png?raw=true",
+        "https://i.ibb.co/sRVqwqW/mc-donald.png",
       project_desc:
         "A food app here you can search and add foods this page build using html css advace js",
         features:'The McDonalds app allows users to place their orders, this is web design page ',
@@ -102,7 +102,7 @@ const Projects = () => {
       id: 6,
       project_name: "You-tube Clone",
       image:
-        "https://github.com/Ashwininagargoje703/Portfolio/blob/master/public/ProjectImages/youtube-clone%20(2).png?raw=true",
+        "https://i.ibb.co/0MG5tLj/youtube-clone-2.png",
       project_desc:
         "Its a app look similar to youtube.also add some functionalty similar to youtube using html css js",
         features:"show songs list, playlist, and web design",
